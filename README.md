@@ -16,7 +16,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link  | Area | Description  | Libraries |
 | ------------- | ------------- |  ------------- | ------------- |
-| Healthcare Premium Prediction  | Content Cell  |  Content Cell  | pandas, XGBoost  |
+| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  | Content Cell  |  Content Cell  | pandas, XGBoost  |
 
 
 ## Interview Questions
