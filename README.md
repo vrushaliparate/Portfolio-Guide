@@ -8,12 +8,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
  - Python
  - Interiew Questions
 
+## Excel
+
+## SQL
+
 ## Python
-
-| Project Link  | Area | Description | Libraries |
-| ------------- | ------------- |
-| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  | Machine Learning  |  | pandas, XGBoost |
-
 
 ## Interview Questions
 
