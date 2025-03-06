@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📖 Table of Contents
  - Excel
  - SQL
+ - Power BI
  - Python
  - Interiew Questions
 
@@ -12,11 +13,19 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## SQL
 
+## Power BI
+
+| Project Link  | Description | Dashboard Link  | 
+| ------------- | ------------- |  ------------- | 
+| [Business Insights 360](https://github.com/vrushaliparate/Power-BI/tree/main/Business%20Insights)  |   |    | 
+| [Retail Insights](https://github.com/vrushaliparate/Power-BI/tree/main/Retail%20Insights)  |   |    | 
+
+
 ## Python
 
 | Project Link  | Area | Description  | Libraries |
 | ------------- | ------------- |  ------------- | ------------- |
-| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  | Content Cell  |  Content Cell  | pandas, XGBoost  |
+| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  |   |    | pandas, XGBoost  |
 
 
 ## Interview Questions
