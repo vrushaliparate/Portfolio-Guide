@@ -10,7 +10,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
  - Interiew Questions
 
 ## Excel
-
+| Project Link  | Decription |
+| ------------- | ------------- |
+| [Sales Analytics](https://github.com/vrushaliparate/Sales-Analytics)  |   |
+  
 ## SQL
 
 ## Power BI
