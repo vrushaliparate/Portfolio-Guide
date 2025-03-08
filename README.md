@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Excel
 | Project Link  | Decription |
 | ------------- | ------------- |
-| [Sales Analytics](https://github.com/vrushaliparate/Sales-Analytics)  |   |
+| [Sales and Finance Analytics](https://github.com/vrushaliparate/Sales-and-Finance-Analytics)  |   |
   
 ## SQL
 
