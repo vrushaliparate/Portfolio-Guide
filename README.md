@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link  | Description | Dashboard Link  | 
 | ------------- | ------------- |  ------------- | 
 | [Business Insights 360](https://github.com/vrushaliparate/Power-BI/tree/main/Business%20Insights)  | Designed an interactive Power BI dashboard for AtliQ Hardware, integrating sales, finance, marketing, and supply chain data for real-time decision-making. Automated reporting, advanced DAX analytics, and custom visualizations enhance business insights and efficiency.  | [Link](https://app.powerbi.com/view?r=eyJrIjoiNjg1Yjg4MTQtMDA0NS00ZDE3LTk0ZTItYjc1NmJlZDdjNDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)   | 
-| [Retail Insights](https://github.com/vrushaliparate/Power-BI/tree/main/Retail%20Insights)  |   |    | 
+| [Retail Insights](https://github.com/vrushaliparate/Power-BI/tree/main/Retail%20Insights)  | Analyzed AtliQ Mart’s festive promotions using data-driven insights to identify successful campaigns and optimize future marketing strategies. Designed an interactive Power BI dashboard and SQL reports to support executive decision-making with clear, actionable recommendations.  |    | 
 
 
 ## Python
