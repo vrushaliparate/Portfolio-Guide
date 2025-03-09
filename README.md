@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link  | Description | Dashboard Link  | 
 | ------------- | ------------- |  ------------- | 
-| [Business Insights 360](https://github.com/vrushaliparate/Power-BI/tree/main/Business%20Insights)  |   |    | 
+| [Business Insights 360](https://github.com/vrushaliparate/Power-BI/tree/main/Business%20Insights)  |   | [Link](https://app.powerbi.com/view?r=eyJrIjoiNjg1Yjg4MTQtMDA0NS00ZDE3LTk0ZTItYjc1NmJlZDdjNDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)   | 
 | [Retail Insights](https://github.com/vrushaliparate/Power-BI/tree/main/Retail%20Insights)  |   |    | 
 
 
