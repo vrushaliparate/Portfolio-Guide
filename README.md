@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Excel
 | Project Link  | Decription |
 | ------------- | ------------- |
-| [Sales and Finance Analytics](https://github.com/vrushaliparate/Sales-and-Finance-Analytics)  |   |
+| [Sales and Finance Analytics](https://github.com/vrushaliparate/Sales-and-Finance-Analytics)  | Developed a Sales & Finance Analytics Dashboard for AtiQ Hardware, leveraging Excel, Power Query, and DAX to track customer performance, market trends, and P&L insights. Enhanced data accuracy through ETL, statistical analysis, and dynamic reporting for better business decisions.  |
   
 ## SQL
 
