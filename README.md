@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link  | Area | Description  | Libraries |
 | ------------- | ------------- |  ------------- | ------------- |
-| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  |   |    | pandas, XGBoost  |
+| [Healthcare Premium Prediction](https://github.com/vrushaliparate/Healthcare-Premium-Prediction)  | Machine Learning   | Developed a predictive model for Shield Insurance, accurately estimating health insurance premiums based on key factors like age, BMI, and medical history. Leveraged machine learning and feature engineering to provide data-driven insights for improved premium pricing.   | pandas, Linear Regression , XGBoost  |
 
 
 ## Interview Questions
