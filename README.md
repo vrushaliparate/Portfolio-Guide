@@ -1,6 +1,6 @@
-# 💼 Vrushali's Portfolio
+# 💼 Vrushali's Repository
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+Welcome to my data repository! Here, I document a summary of my projects in the data field.
 
 ## 📖 Table of Contents
  - Excel
